@@ -11,5 +11,8 @@
     "backend"
   ],
   "author": "Dhananjay",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "touch": "^3.1.1"
+  }
 }
