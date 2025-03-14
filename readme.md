@@ -1,4 +1,4 @@
-# chai or backend
+# chai or backend for practice
 
 This is my practice project
 
